@@ -1,0 +1,3 @@
+python train.py --cfg models/hub/yolov5-bifpn.yaml --cache --data dataset.yaml  --img 640 --epochs 500 --batch-size 16  --optimizer Adam
+# python train.py  --cfg models/yolov5s.yaml --cache --data dataset.yaml --weights yolov5s.pt --img 640 --epochs 300 --batch-size 16  --optimizer Adam --hyp data/hyps/hyp.scratch-high.yaml
+# python train.py  --cfg models/hub/yolov5s-transformer.yaml --cache --data dataset.yaml --weights yolov5s.pt --img 640 --epochs 300 --batch-size 16

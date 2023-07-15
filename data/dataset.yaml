@@ -1,0 +1,13 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# parent
+# ├── yolov5
+# └── datasets
+#     └── autopilot_seg  ← downloads here
+
+path: ../dataset # dataset root dir
+train: train/ # train images
+val: val/ # val images
+test: # test images (optional)
+
+# Classes
+names: ["cracks", "damages", "seepage"]
