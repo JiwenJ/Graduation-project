@@ -47,5 +47,5 @@ pip install -r requirements.txt  # install
 ## <div align="center">Improvement</div>
 ## <div align="center">Result</div>
 <a align="center">
-<img width="100%" src="https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/result.png)https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/result.png"></a>
+<img width="100%" src="https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/result.png"></a>
 ## <div align="center">Contact</div>
