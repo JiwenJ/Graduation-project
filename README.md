@@ -12,7 +12,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 
 ```bash
 git clone https://github.com/JiwenJ/Graduation-project.git  # clone
-cd 
+cd yolov5
 pip install -r requirements.txt  # install
 ```
 
