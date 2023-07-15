@@ -11,7 +11,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 [**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
 
 ```bash
-git clone https://github.com/  # clone
+git clone https://github.com/JiwenJ/Graduation-project.git  # clone
 cd 
 pip install -r requirements.txt  # install
 ```
