@@ -17,3 +17,30 @@ pip install -r requirements.txt  # install
 ```
 
 </details>
+
+<details open>
+<summary>Dataset preparation</summary>
+
+
+</details>
+
+
+<details open>
+<summary>Train from scratch</summary>
+
+
+</details>
+
+<details open>
+<summary>Train with transfer learning</summary>
+
+
+</details>
+
+
+<details open>
+<summary>Inference</summary>
+
+
+</details>
+
