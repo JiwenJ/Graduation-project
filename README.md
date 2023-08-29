@@ -46,12 +46,9 @@ dd
 
 
 <details open>
+<summary>Weights</summary>
   
-<summary>Download the weights</summary>
-
-
-- best with 2000 epochs [[Google Drive]](https://drive.google.com/file/d/1Yc9kNhkm7ibVkyUqoZohYFtQe9RoZruS/view?usp=drive_link)
-
+Download the weights from [[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)
 
 </details>
 
