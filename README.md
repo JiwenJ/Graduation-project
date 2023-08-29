@@ -49,9 +49,9 @@ dd
   
 <summary>Download the weights</summary>
 
-```bash
-best with 2000 epochs
-```
+
+- best with 2000 epochs [[Google Drive]](https://drive.google.com/file/d/1Yc9kNhkm7ibVkyUqoZohYFtQe9RoZruS/view?usp=drive_link)
+
 
 </details>
 
