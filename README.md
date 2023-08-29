@@ -44,6 +44,12 @@ dd
 
 </details>
 
+
+<details open>
+<summary>Download the weights</summary>
+best with 2000 epochs
+</details>
+
 ## <div align="center">Improvement</div>
 
 ## <div align="center">Result</div>
