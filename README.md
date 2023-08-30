@@ -47,10 +47,27 @@ dd
 
 <details open>
 <summary>Weights</summary>
-  
-Download the weights from [[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)
+According to our experiments, we conclude the results in the following tables:
+
+
+|编号|网络结构|特征金字塔|损失函数|优化器|权重下载|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|YOLOv5<sup>1</sup>|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|2|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|3|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|4|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|5|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|6|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+
+1: What we refer to is YOLOv5s-7.0.
+
+The best combination for object detection in our experiments is YOLOv5 with BiFPN, SIoU and AM. You can download the weight from [[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link).
 
 </details>
+
+
+
+
 
 ## <div align="center">Improvement</div>
 
