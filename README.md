@@ -1,6 +1,8 @@
 ## <div align="center"> Graduation Project</div>
+ 
+#### Title: Multi-objective detection and instance segmentation of shield tunnel diseases based on deep learning
+We utilize yolov5-7.0 to perform the object detection and instance segmentation tasks for shield tunnel diseases, for example, cracks, damages, and seepage.
 
-intro: Multi-objective detection and instance segmentation of shield tunnel diseases based on deep learning
 ## <div align="center">Documentation</div>
 
 <details open>
@@ -47,17 +49,20 @@ dd
 
 <details open>
 <summary>Weights</summary>
-According to our experiments, we conclude the results in the following tables:
 
 
-|编号|网络结构|特征金字塔|损失函数|优化器|权重下载|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|YOLOv5<sup>1</sup>|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
-|2|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
-|3|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
-|4|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
-|5|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
-|6|YOLOv5|PAN|CIoU|SGD|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+According to our experiments, we conclude the object detecttion results in the following tables:
+<div class="center" align="center">
+  
+|编号|加入注意力机制|修改特征金字塔|修改损失函数|mAP@0.5|mAP@0.5:0.95|权重下载|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|&cross;|&cross;|&cross;|72.5|43.1|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|2|&check;|&cross;|&cross;|71.4|35.3|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|3|&cross;|&check;|&cross;|74.6|40.6|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|4|&cross;|&cross;|&check;|78.9|47.8|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+|5|&check;|&check;|&check;|**80.1**|**48.0**|[[Google Drive]](https://drive.google.com/drive/folders/19fuBpVvFBI8lmgbjvfALcimQ1omT0YXi?usp=drive_link)|
+
+</div>
 
 1: What we refer to is YOLOv5s-7.0.
 
@@ -77,3 +82,9 @@ The best combination for object detection in our experiments is YOLOv5 with BiFP
 </div>
 
 ## <div align="center">Contact</div>
+
+
+## <div align="center">Acknowledgement</div>
+Data credit to
+Computation resource
+tutorial
