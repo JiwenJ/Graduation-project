@@ -61,7 +61,7 @@ dd
 <summary>Weights</summary>
 
 
-According to our experiments, we conclude the object detecttion results in the following tables:
+According to our experiments, we conclude the object detection results in the following tables:
 <div class="center" align="center">
   
 |编号|加入注意力机制|修改特征金字塔|修改损失函数|mAP@0.5|mAP@0.5:0.95|权重下载|
@@ -96,6 +96,7 @@ The best combination for object detection in our experiments is YOLOv5 with BiFP
 
 
 ## <div align="center">Acknowledgement</div>
-Data credit to
-Computation resource
-tutorial
+
+Dataset is credited to NJU.<br>
+Computation resource is credited to NJU and CASIA.<br>
+Computer vision tutorial is credited to online resources and RDD competition.
