@@ -3,6 +3,16 @@
 #### Title: Multi-objective detection and instance segmentation of shield tunnel diseases based on deep learning
 We utilize yolov5-7.0 to perform the object detection and instance segmentation tasks for shield tunnel diseases, for example, cracks, damages, and seepage.
 
+<div align="center">
+  <img width="20%" src="https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/crack.png">
+  <img width="20%" src="https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/damage.png">
+  <img width="20%" src="https://raw.githubusercontent.com/JiwenJ/Graduation-project/main/doc/images/seepage.png">
+</div>
+
+
+
+
+
 ## <div align="center">Documentation</div>
 
 <details open>
