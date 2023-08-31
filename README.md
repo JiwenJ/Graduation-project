@@ -82,6 +82,7 @@ The best combination for object detection in our experiments is YOLOv5 with BiFP
 </div>
 
 ## <div align="center">Contact</div>
+- E-mail: 1546631808@qq.com
 
 
 ## <div align="center">Acknowledgement</div>
